@@ -7,7 +7,7 @@ const listarLivrosOrdenados = () => {
 
 
   if (opcaoInicial === 'S') {
-    //console.clear()
+    console.clear()
 
     const livrosOrdenados = livros.sort((a, b) => a.paginas - b.paginas)
     console.table(livrosOrdenados)

@@ -36,5 +36,4 @@ switch (resposta) {
         break
     default:
         console.log('Essa opção não é válida!')
-
 }
