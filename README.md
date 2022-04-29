@@ -62,7 +62,8 @@
 - [ ] **`Qualquer outro número que não tenha no 'MENU'`** Deverá aparecer a mensagem `Essa opção não é válida!`.
 
 ```
-- O comportamento esperado deve ser o pedido da entrada e a impressão das tabelas buscadas no console, conforme requisitos acima.
+- O comportamento esperado deve ser o pedido da entrada e a impressão
+ das tabelas buscadas no console, conforme requisitos acima.
 ```
 </br>
 
