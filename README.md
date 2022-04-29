@@ -18,7 +18,7 @@
 | No package.json, crie o script start   | `"start": "node app.js"` |
 | Instale as dependências   | `npm i readline-sync` |
 | Crie o .gitignore     | `node_modules` |
-|
+
 
 ### :zap: `Tecnologias`
 </br>
@@ -29,7 +29,7 @@
 | `nodejs` | Ambiente de execução do javascript|
 | `npm` | Gerenciador de pacotes|
 | `readline-sync` | Dependência para receber inputs no terminal|
-| 
+
   
 ### :triangular_ruler: `Arquitetura` 
 </br>
